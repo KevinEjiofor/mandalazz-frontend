@@ -1,4 +1,4 @@
-import RegNavbar from "@/src/component/reusables/RegNavBar"
+import RegNavbar from "../../components/reusables/RegNavBar"
 import { ReactNode } from "react";
 
 export default function UserLayout({ children }) {
