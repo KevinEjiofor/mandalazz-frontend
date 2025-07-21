@@ -1,4 +1,4 @@
-import ResetPassword from "@/src/component/ForgotPassword/ResetPassword"
+import ResetPassword from "../../components/ForgotPassword/ResetPassword"
 
 const page=()=>{
     return(

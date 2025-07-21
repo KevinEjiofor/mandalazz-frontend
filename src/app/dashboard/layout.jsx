@@ -2,7 +2,7 @@ import Navbar from '@/src/components/reusables/Navbar';
 import Categories from '@/src/components/reusables/Categories';
 import Footer from '@/src/components/reusables/Footer';
 // import SideBar from '../../component/reusables/SideBar';
-import SideBar from '@/src/components/reusables/SideBar';
+import SideBar from '../../components/reusables/Sidebar';
 
 export default function dashboardLayout({ children }) {
   return (
