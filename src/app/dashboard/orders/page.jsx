@@ -1,4 +1,4 @@
-import OrdersPage from "../../../component/account/Orders"
+import OrdersPage from "../../../components/account/Orders"
 
 const page=()=>{
     return(

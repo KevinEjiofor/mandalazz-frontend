@@ -1,4 +1,4 @@
-import NewPassword from "../../component/ForgotPassword/NewPassword";
+import NewPassword from "@/src/components/ForgotPassword/NewPassword";
 
 const page=()=>{
     return(

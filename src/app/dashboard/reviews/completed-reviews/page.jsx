@@ -1,4 +1,4 @@
-import CompletedReviewsPage from "../../../../component/account/CompletedReviewsPage"
+import CompletedReviewsPage from "../../../../components/account/CompletedReviewsPage"
 
 const page = () => {
     return (

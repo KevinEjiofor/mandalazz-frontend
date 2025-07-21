@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import OrderSummary from "./OrderSummary"
-import PaymentMethod from "../../component/checkout/PaymentMethod";
+import PaymentMethod from "@/src/components/checkout/PaymentMethod";
 import useCreateCheckout from "../../lib/hooks/useCheckout";
 import { useRouter } from "next/navigation";
 import statesWithLGAs from "../../data/statesWithLGAs.json";

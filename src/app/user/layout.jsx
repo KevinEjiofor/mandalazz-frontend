@@ -1,4 +1,4 @@
-import RegNavbar from "@/src/component/reusables/RegNavBar"
+import RegNavbar from "@/src/components/reusables/RegNavBar"
 
 export default function UserLayout({ children }) {
   return (

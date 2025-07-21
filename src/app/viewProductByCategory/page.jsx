@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import ViewProductsByCategory from "../../component/product/ViewByCategory"
+import ViewProductsByCategory from "../../components/product/ViewByCategory"
 
 const page=()=>{
     return(

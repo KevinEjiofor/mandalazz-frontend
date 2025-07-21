@@ -1,4 +1,4 @@
-import ViewProductDetails from '../../../component/product/ViewProductDetails';
+import ViewProductDetails from '../../../components/product/ViewProductDetails';
 const page=()=>{
     return(
         <div>         

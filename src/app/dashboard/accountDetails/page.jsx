@@ -1,4 +1,4 @@
-import AccountDetails from "../../../component/account/accountDetails"
+import AccountDetails from "../../../components/account/accountDetails"
 
 const page=()=>{
     return(

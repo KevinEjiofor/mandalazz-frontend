@@ -1,4 +1,4 @@
-import SettingsPage from "../../../component/account/Settings"
+import SettingsPage from "../../../components/account/Settings"
 
 const page=()=>{
     return(

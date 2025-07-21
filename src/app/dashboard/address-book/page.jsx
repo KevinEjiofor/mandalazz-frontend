@@ -1,4 +1,4 @@
-import AddressBook from "../../../component/account/AddressBook"
+import AddressBook from "../../../components/account/AddressBook"
 
 const page=()=>{
     return(

@@ -9,12 +9,12 @@ import { Button, InputAdornment, TextField, useMediaQuery, useTheme } from '@mui
 import SearchIcon from "@mui/icons-material/Search";
 import { useState, useEffect } from 'react';
 import { useCartStore } from '../../lib/store/useCart';
-import ProfileDropdown from '../../component/reusables/AccountDropDownMenu';
+import ProfileDropdown from '../reusables/AccountDropDownMenu';
 import useProductSearch from '../../lib/hooks/useSearchMutation';
-import MobileAccountPage from '../../component/reusables/CategoriesMobile';
+import MobileAccountPage from '@/src/components/reusables/CategoriesMobile';
 import NavbarSkeleton from '../skeletons/NavbarSkeleton';
 import SearchResultsSkeleton from '../skeletons/SearchResultsSkeleton';
-import SearchDropdown from '../../component/reusables/SearchDropdown';
+import SearchDropdown from '@/src/components/reusables/SearchDropdown';
 
 const Navbar = () => {
   const router = useRouter();

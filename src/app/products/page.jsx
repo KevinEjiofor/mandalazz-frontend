@@ -1,4 +1,4 @@
-import ViewProducts from "@/src/component/product/ViewProduct"
+import ViewProducts from "@/src/components/product/ViewProduct"
 
 const page=()=>{
     return(

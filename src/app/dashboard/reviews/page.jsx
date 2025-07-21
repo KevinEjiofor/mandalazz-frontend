@@ -1,4 +1,4 @@
-import ReviewsPage from "../../../component/account/reviews"
+import ReviewsPage from "../../../components/account/reviews"
 
 const page=()=>{
     return(

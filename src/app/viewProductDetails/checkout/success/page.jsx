@@ -1,4 +1,4 @@
-import Delivery from '../../../../component/checkout/Delivery';
+import Delivery from '../../../../components/checkout/Delivery';
 
 const page=()=>{
     return(

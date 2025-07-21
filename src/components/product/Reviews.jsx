@@ -5,7 +5,7 @@ import { Card, CardContent, Typography, Button, Box, Divider, CircularProgress }
 import StarIcon from '@mui/icons-material/Star';
 import StarBorderIcon from '@mui/icons-material/StarBorder';
 import { useComments } from "../../lib/hooks/useGetReviews";
-import ReviewModal from "../../component/reusables/reviewModal";
+import ReviewModal from "@/src/components/reusables/reviewModal";
 
 
 const Stars = ({ rating }) => {

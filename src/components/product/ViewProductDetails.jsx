@@ -17,7 +17,7 @@ import useFetchCartQuery from "../../lib/hooks/cart/useFetchCartMutation";
 import useFavoritesQuery from '@/src/lib/hooks/useFavouritesQuery';
 import useSnackbarStore from '@/src/lib/store/useSnackbarStore';
 import ProductTabs from '../reusables/ApplicationTabSlider';
-import RecentlyViewed from '../../component/recentlyViewed';
+import RecentlyViewed from '@/src/components/recentlyViewed';
 
 const ViewProductDetails = () => {
   const [selectedSize, setSelectedSize] = useState(null);

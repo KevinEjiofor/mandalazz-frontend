@@ -1,4 +1,4 @@
-import Reviews from "@/src/component/product/Reviews"
+import Reviews from "@/src/components/product/Reviews"
 
 
 const page=()=>{

@@ -1,4 +1,4 @@
-import FavouritesPage from "../../../component/account/Favourites"
+import FavouritesPage from "../../../components/account/Favourites"
 
 
 const page = () => {

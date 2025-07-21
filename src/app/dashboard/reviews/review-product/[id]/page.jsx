@@ -1,4 +1,4 @@
-import ReviewProductPage from "../../../../../component/account/ReviewProductPage";
+import ReviewProductPage from "../../../../../components/account/ReviewProductPage";
 
 const page = () => {
     return (

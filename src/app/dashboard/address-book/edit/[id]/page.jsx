@@ -1,4 +1,4 @@
-import EditAddressForm from "../../../../../component/account/EditAddress"
+import EditAddressForm from "../../../../../components/account/EditAddress"
 
 const page=()=>{
     return(

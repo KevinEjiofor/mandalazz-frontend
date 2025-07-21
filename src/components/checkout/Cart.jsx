@@ -4,8 +4,8 @@ import { useEffect } from 'react';
 import ReusableCartTable from '../reusables/CartTable';
 import { useCartStore } from '../../lib/store/useCart';
 import OrderSummary from '../checkout/OrderSummary';
-import Favourites from '../../component/favourites';
-import RecentlyViewed from '../../component/recentlyViewed';
+import Favourites from '@/src/components/favourites';
+import RecentlyViewed from '@/src/components/recentlyViewed';
 
 import useFetchCartQuery from "../../lib/hooks/cart/useFetchCartMutation";
 import useRemoveFromCart from "../../lib/hooks/cart/useRemoveFromCart";

@@ -1,5 +1,5 @@
-import Navbar from '../../component/reusables/Navbar';
-import Categories from '../../component/reusables/Categories';
+import Navbar from '../../components/reusables/Navbar';
+import Categories from '../../components/reusables/Categories';
 
 export default function ViewLayout({ children }) {
   return (
