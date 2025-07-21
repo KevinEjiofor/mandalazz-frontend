@@ -1,4 +1,4 @@
-import Verify from "@/src/component/user/Verify";
+import Verify from "../../components/user/Verify";
 
 
 const page=()=>{

@@ -1,4 +1,4 @@
-import Login from "@/src/component/user/Login"
+import Login from "../../components/user/Login"
 
 const page=()=>{
     return(

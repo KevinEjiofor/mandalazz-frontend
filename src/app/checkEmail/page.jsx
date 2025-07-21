@@ -1,4 +1,4 @@
-import CheckEmail from "@/src/component/ForgotPassword/CheckEmail"
+import CheckEmail from "../../components/ForgotPassword/CheckEmail"
 
 const page=()=>{
     return(

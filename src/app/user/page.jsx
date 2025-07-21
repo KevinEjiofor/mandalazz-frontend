@@ -1,4 +1,4 @@
-import Signup from "@/src/component/user/Signup";
+import Signup from "../../components/user/Signup";
 
 // src/app/user/page.jsx
 export default function Page() {

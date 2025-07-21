@@ -1,5 +1,5 @@
 // import SignupValidation from "../../component/SignupValidation";
-import SignupValidation from "@/src/component/user/SignupValidation";
+import SignupValidation from "../../components/user/SignupValidation";
 
 const page=()=>{
     return(
